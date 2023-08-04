@@ -13,4 +13,5 @@ To see this in action, [click here](https://kaggle-connection-demo.streamlit.app
 <br>
 Here's a snippet of the app:
 <br>
-<img src="demo_img.jpg" alt="Demo Image" width="300"/>
+<br>
+<img src="demo_img.jpg" alt="Demo Image" width="600"/>
