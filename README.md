@@ -9,4 +9,5 @@ df = conn.get(path='joebeachcapital/top-10000-spotify-songs-1960-now', filename=
 ```
 
 To see this in action, [click here](https://kaggle-connection-demo.streamlit.app/) to launch the Streamlit application.
+Here's a snippet of the app:
 ![Demo Image](demo_img.jpg)
