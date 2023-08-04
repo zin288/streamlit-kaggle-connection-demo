@@ -1,4 +1,4 @@
-# streamlit-kaggle-connection-demo
+# Streamlit Kaggle Connection Demo App
 This is a demo app that leverages the recently released `st.experimental_connection` feature in Streamlit to connect to the Kaggle API for extracting CSV data.
 
 Here is a snippet of the code used in `app.py`:
