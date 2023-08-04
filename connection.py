@@ -4,12 +4,6 @@ import pandas as pd
 import zipfile
 import streamlit as st
 
-from streamlit.connections import ExperimentalBaseConnection
-import os
-import pandas as pd
-import zipfile
-import streamlit as st
-
 
 class KaggleConnection(ExperimentalBaseConnection):
 
